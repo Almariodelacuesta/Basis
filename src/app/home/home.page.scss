@@ -1,23 +1,16 @@
-ion-content.background{
-  //--ion-background-color:blue;
-  --background:url(../../image/bg.jpeg)
-}
-
 #container {
   text-align: center;
-  background-color: #0b657c;
+
   position: absolute;
-  left: 300px;
-  right: 300px;
-  top: 55%;
+  left: 0;
+  right: 0;
+  top: 50%;
   transform: translateY(-50%);
 }
 
 #container strong {
-  background-color: #0b657c;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 26px;
-  
 }
 
 #container p {
